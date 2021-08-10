@@ -2,6 +2,8 @@
 
 # Azure2S3 module introduction
 
+This module will replicate the data from Microsoft Azure object storage to Amazon S3.
+
 ## Which tools are involed
 - Terraform
 - rclone
